@@ -10,7 +10,7 @@
 
 ### :Computer Scientist and gamer: Info :
 
-👀 About me: I am a Computer Scientist  !<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+👀 About me: I am a Computer Scientist  !<img src="[https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif](https://i.pinimg.com/originals/29/12/98/29129842108c46684a26c427741db074.gif)" width="30"> 
 
 <br>
 
