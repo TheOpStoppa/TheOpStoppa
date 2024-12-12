@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
- <img src="[https://media.giphy.com/media/VZUhn04QSs0AmsHRic/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fmatrix-screen&psig=AOvVaw3QBJe-QK67Kww28jGZQCMk&ust=1734119514405000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPCnmd-Ao4oDFQAAAAAdAAAAABAE)" width="100"/>
+ <img src="[https://media.giphy.com/media/VZUhn04QSs0AmsHRic/giphy.gif]" width="100"/>
 
  <h1>
 
