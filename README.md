@@ -2,15 +2,15 @@
 
  <h1>
 
-  👋 Hi, I’m @TheOpStoppa
+  👋 welcome, I am @TheOpStoppa
 
  </h1>
 
 </div>
 
-### :Computer Scientist and Wanna be gamer maker: Info :
+### :Computer Scientist and Wanna be gamer maker:
 
-👀 About me: I am a Computer Scientist  ! 
+👀 About me: I am a Computer Science student
 
 <br>
 
