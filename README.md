@@ -26,7 +26,7 @@
 
 <br>
 
-🌱 Hobbies: In my spare time i like to read various books and genres(fantasy, manga, romance), as well as gaming(terraria, minecraft, elden ring, genshin impact), music and cardgames
+🌱 Hobbies: In my spare time i like to read various books and genres(fantasy, manga, romance), as well as gaming(terraria, minecraft, elden ring, genshin impact), music and card games
 
 <br>
 
