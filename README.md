@@ -8,7 +8,7 @@
 
 </div>
 
-### :Computer Scientist and Wanna be gamer maker:
+### :Computer Scientist and Wanna be game maker:
 
 👀 About me: I am a Computer Science student
 
