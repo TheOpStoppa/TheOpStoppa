@@ -18,7 +18,7 @@
 
 <br>
 
-💞️ Skillset: student who has studied these coding languages: python, C++
+💻 Skillset: student who has studied these coding languages: python, C++
 
 <br>
 
